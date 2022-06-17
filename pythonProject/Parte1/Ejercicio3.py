@@ -9,9 +9,7 @@ b = int(input("Escriba el Valor de b: "))
 
 print(f"El valor de las variables son: {a} - {b}")
 
-a ^= b
-b ^= a
-a ^= b
+a ^= b; b ^= a; a ^= b
 
 print(f"El valor de las variables son: {a} - {b}")
 

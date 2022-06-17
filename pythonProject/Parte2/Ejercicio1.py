@@ -12,3 +12,5 @@ elif numero1 % 2 != 0 and numero2 % 2 == 0:
     print(f"El segundo Numero ({numero2}) es Par")
 elif numero1 % 2 != 0 and numero2 % 2 != 0:
     print("Ambos Numeros son impares")
+
+
